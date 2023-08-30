@@ -45,7 +45,6 @@ public class MainActivity extends AppCompatActivity {
                 imagemApp.setImageResource( R.drawable.tesoura );
                 break;
         }
-
         return escolhaApp;
     }
 
@@ -71,8 +70,4 @@ public class MainActivity extends AppCompatActivity {
 
         //System.out.println("item clicado: " + escolhaUsuario);
     }
-
-
-
-
 }
